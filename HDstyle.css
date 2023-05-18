@@ -25,6 +25,7 @@
     overflow: hidden;
     z-index: 1;  }
   img{
+    background-color: #f1f4f7;
     max-height: 100%;
   }
   .card-demo4{
@@ -102,7 +103,7 @@
 
 
   .cards-product{
-   background-color: #f1f4f7;
+   background-color: #ffffff;
    margin: 80px;
    display: grid;
    grid-template-columns: repeat(6,180px);
