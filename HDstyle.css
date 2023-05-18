@@ -226,7 +226,7 @@
   100% {
     transform: translateY(-5px);
     box-shadow: 
-    0 40px 15px 0 rgba(0, 0, 0, 0.137);
+    0 30px 15px 0 rgba(0, 0, 0, 0.137);
    
   }
 }
